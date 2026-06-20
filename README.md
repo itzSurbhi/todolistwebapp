@@ -9,13 +9,6 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 * Delete tasks when no longer needed.
 * Clean and responsive dark-themed UI.
 * Prevents adding empty tasks.
-* Smooth hover effects and modern styling.
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript
 
 ## 📂 Project Structure
 
